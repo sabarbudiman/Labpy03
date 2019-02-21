@@ -15,7 +15,7 @@
 8. Selesai
 
 
-### Berikut screenshot Syntac dan Hasil running Program Latihan1.
+### Berikut screenshot Syntax dan Hasil running Program Latihan1.
 ![latihan1](https://user-images.githubusercontent.com/46584235/53147810-4730c800-35db-11e9-98d1-5406094fd454.png)
 
 ## Latihan2
@@ -29,7 +29,7 @@
 5. Baca integer A sebagai hasil dari cetak "Bilangan terbesar".
 6. Selesai
 
-### Berikut screenshot Syntac dan Hasil running Program Latihan2
+### Berikut screenshot Syntax dan Hasil running Program Latihan2
 
 ![latihan2](https://user-images.githubusercontent.com/46584235/53147819-4c8e1280-35db-11e9-83e9-8eb44bf453ab.png)
 
@@ -49,6 +49,6 @@
 10. Selesai.
 
 
-### Berikut screenshot Syntac dan Hasil running program1 
+### Berikut screenshot Syntax dan Hasil running program1 
 ![program1](https://user-images.githubusercontent.com/46584235/53147825-50ba3000-35db-11e9-9a86-08e8234c1264.png)
 
